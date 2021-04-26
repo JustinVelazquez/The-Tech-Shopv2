@@ -27,9 +27,7 @@ As one of my more fuller projects, i cant wait to revisit some day and optimize 
 
 There are multiple of options available to engineers, and designers in order to fit their client's needs. Whether its just front-end or full-stack completely; it is our job to find the best available tools to meet the job.
 
-## Examples:
-
-Take a look at these couple examples that I have in my own portfolio:
+## Other Projects
 
 **LionHeart:** https://github.com/JustinVelazquez/LionHeart-Fitness
 
