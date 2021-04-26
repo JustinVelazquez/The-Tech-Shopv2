@@ -15,6 +15,7 @@ This was my first time learning my way around Stripe and Commerce.js. Both were 
 To test out our site: Once at your cart and you fill out all available information. When you select which payment method to use, Stripe allows us to use a demo card to test with.
 
 Card Number: 4242-42424-424242-4242
+
 MM/YY-CVC-Zip: 04/24-242-42424
 
 Or if that doesnt work just fill out "42" over and over again till there is no more room.
