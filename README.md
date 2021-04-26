@@ -2,7 +2,7 @@
 
 Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
 
-**Link to project:** _LINK_
+**Link to project:** https://thetechshop.netlify.app/
 
 ![The tech Shop](https://i.imgur.com/F5UnHsX.png)
 
@@ -33,6 +33,6 @@ Take a look at these couple examples that I have in my own portfolio:
 
 **LionHeart:** https://github.com/JustinVelazquez/LionHeart-Fitness
 
-**Crypto Daily** *LINK*
+**Crypto Daily** _LINK_
 
 **Full-Stack Open:** https://github.com/JustinVelazquez/FullStack-2021
