@@ -1,70 +1,38 @@
-# Getting Started with Create React App
+# The Tech Shop
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
 
-## Available Scripts
+**Link to project:** _LINK_
 
-In the project directory, you can run:
+![The tech Shop](https://i.imgur.com/F5UnHsX.png)
 
-### `npm start`
+## How It's Made:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+**Tech used:** React, Stripe, Commerce.js
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+This was my first time learning my way around Stripe and Commerce.js. Both were really intuitive and easy to pick up. The utility of using Commerce.js's own API to host the clients information was amazing. No need for a back-end, engineer upkeep, or any of the sort! All options/ site handling is directly responsible in the client's hands.
 
-### `npm test`
+To test out our site: Once at your cart and you fill out all available information. When you select which payment method to use, Stripe allows us to use a demo card to test with.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Card Number: 4242-42424-424242-4242
+MM/YY-CVC-Zip: 04/24-242-42424
 
-### `npm run build`
+Or if that doesnt work just fill out "42" over and over again till there is no more room.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Optimizations
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+As one of my more fuller projects, i cant wait to revisit some day and optimize my code the best i can. Maybe down the line, we can come in and build our own more expansive back-end. Including adding Auth/Sessions
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Lessons Learned:
 
-### `npm run eject`
+There are multiple of options available to engineers, and designers in order to fit their client's needs. Whether its just front-end or full-stack completely; it is our job to find the best available tools to meet the job.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Examples:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Take a look at these couple examples that I have in my own portfolio:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+**LionHeart:** https://github.com/JustinVelazquez/LionHeart-Fitness
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+**Crypto Daily** *LINK*
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+**Full-Stack Open:** https://github.com/JustinVelazquez/FullStack-2021
